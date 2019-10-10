@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
 	<meta charset="UTF-8">
 	<title>ИЗУМИМ</title>
@@ -358,7 +358,7 @@
     <div class="collapse multi-collapse" id="multiCollapseExample7">
       <div class="card card-body">
 				<p><span class="atb">Детский</span><br>
-				<span class="atb2">Классический (необрезной) 300<br>
+				<span class="atb2">Классический (необрезной) 300</span><br>
 				<span class="atb">Женский (индивидуальный пакет)</span><br>
 				<span class="atb2">Европейский (необрезной) 300 <br>  
 				Классический (обрезной) 450  <br>
@@ -517,19 +517,19 @@
 		data-width="100%"
      	data-ratio="1000/900"
 		data-nav="thumbs">
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair.jpg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair1.jpg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair2.png"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair3.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair4.png"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair5.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair6.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair7.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair8.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair9.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair10.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair11.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair12.jpeg"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair.jpg" alt="Женские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair1.jpg" alt="Женские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair2.png" alt="Женские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair3.jpeg" alt="Женские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair4.png" alt="Женские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair5.jpeg" alt="Женские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair6.jpeg" alt="Женские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair7.jpeg" alt="Женские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair8.jpeg" alt="Женские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair9.jpeg" alt="Женские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair10.jpeg" alt="Женские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair11.jpeg" alt="Женские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/short-hair12.jpeg" alt="Женские стрижки"></a>
 </div>
 			</div>
 		
@@ -576,20 +576,20 @@
 		data-width="100%"
      	data-ratio="1000/900"
 		data-nav="thumbs">
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man1.jpg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man2.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man3.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man4.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man5.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man6.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man7.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man8.jpg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man9.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man10.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man11.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man12.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man13.jpeg"></a>
-  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man14.jpeg"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man1.jpg" alt="Мужские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man2.jpeg" alt="Мужские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man3.jpeg" alt="Мужские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man4.jpeg" alt="Мужские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man5.jpeg" alt="Мужские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man6.jpeg" alt="Мужские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man7.jpeg" alt="Мужские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man8.jpg" alt="Мужские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man9.jpeg" alt="Мужские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man10.jpeg" alt="Мужские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man11.jpeg" alt="Мужские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man12.jpeg" alt="Мужские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man13.jpeg" alt="Мужские стрижки"></a>
+  <a href="1.jpg"><img src="../izumim/fotorama/photo-hair/hair-man14.jpeg" alt="Мужские стрижки"></a>
 </div>
 			</div>
 
@@ -597,7 +597,7 @@
 	 </div>
 	</section>
 
-	<!------ КОММЕНТАРИИ ------>
+	<!--- КОММЕНТАРИИ --->
 
 	<section class="comments">
 		<div class="container-fluid">
@@ -610,7 +610,7 @@
 			<div class="row">
 				<div class="col-xl-12 d-flex justify-content-center">
 
-			<form role="form" id="comment_form" class="comments__form" action="" method="POST">
+			<form role="form" id="comment_form" class="comments__form" action="review.php" method="POST">
 			 <div class="form-group">
 			 	<p class="comments__name">Введите имя </p>
 			    <input type="text" name="comment_name" id="comment_name" class="form-control" placeholder="Имя"/>
