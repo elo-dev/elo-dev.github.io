@@ -44,10 +44,10 @@
 					<div class="row d-flex justify-content-center">
 						<div class="col-md-2 col-xs-12">
 							<div class="logo d-flex justify-content-center">
-								<a href="#"><img src="img/logo/logo.png" alt="COFFEE" /></a>
+								<p class="NAME1">ПАРИКМАХЕРСКАЯ<span class="NAME2"><br>ИЗУМИ !</span></p>
 							</div>
 						</div>
-						<div class="col-md-8 col-xs-12">
+						<div class="col-md-8 col-xs-12 mt-3">
                             <div class="content-wrapper d-flex justify-content-around">
                                 
                                 <div class="header__address">
@@ -653,10 +653,10 @@
 
 	<footer id="sticky-footer" class="py-4 bg-dark text-white-50">
 
-		<div class="container-fluid">
-		<div class="row">
+		<div class="container">
+		<div class="footer__desc row d-flex justify-content-center">
 
-			<div class="col-xl-3 col-md-12 d-flex justify-content-start">
+		    <div class="col-md-3 col-xs-12">
 				<div class="footer__email">
 				<ul class="list-unstyled">
 	          <li>
@@ -667,9 +667,9 @@
 	          </li>
 	          </ul>
 	      		</div>
-	      </div>
+	        </div>
 
-			<div class="col-xl-3 col-md-12 d-flex justify-content-start">
+			<div class="col-md-3 col-xs-12">
 				<div class="footer__social">
 				<ul class="list-unstyled">
 	          <li>
@@ -680,9 +680,9 @@
 	          </li>
 	          </ul>
 	      		</div>
-			</div>
+	        </div>
 
-			<div class="col-xl-3 col-md-12 d-flex justify-content-center">
+	        <div class="col-md-3 col-xs-12">
 				<div class="footer__address">
 				<ul class="list-unstyled">
 	          <li>
@@ -693,9 +693,9 @@
 	          </li>
 	          </ul>
 	      		</div>	
-			</div>
+	        </div>
 
-			<div class="col-xl-3 col-md-12 d-flex justify-content-center">
+			<div class="col-md-3 col-xs-12">
 				<div class="footer__contact">
 				<ul class="list-unstyled">
 	          <li>
@@ -706,8 +706,8 @@
 	          </li>
 	          </ul>
 	      		</div>
-			</div>
-
+	        </div>
+			
 		</div>
 
 		<div class="row">	
