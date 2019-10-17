@@ -56,11 +56,6 @@ ul, li {
     font-family: 'Fenix', serif;
 }
 
-.logo-inst{
-	color: #AD4CD1;
-	margin-left: 85px;
-}
-
 .header__tel{
 	padding-top: 20px;
 	font-size: 20px;
@@ -390,18 +385,33 @@ a.btn{
 	font-size: 13px;
 }
 
-@media (max-width: 770px) {
-  .footer__desc {text-align: center;}
+@media only screen and (max-width: 765px) {
+  .footer__desc {
+  	text-align: center;
+  	padding-left: 50px;
+  }
 }
 
 .comments{
-	background-image: url(https://i.pinimg.com/originals/97/c7/13/97c713dd33d73985d33605f39b8f5456.jpg);
+	background-image: url('../izumim/bg/bg-comment.jpg');
 	margin: 100px;
 	background-size: cover;
 	background-position: 0 5%;
 	background-color: rgba(0,0,0,.2);
     background-blend-mode: darken;
     padding: 40px 0;
+}
+
+@media (max-width: 565px){
+	.comments{
+		margin: 50px;
+	}
+}
+
+@media (max-width: 460px){
+	.comments{
+		margin: 30px;
+	}
 }
 
 .carousel {
