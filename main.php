@@ -4,7 +4,8 @@
 <head>
 	<meta charset="UTF-8">
 	<title>ИЗУМИМ</title>
-
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
 	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 
 	<link href="style.css" rel="stylesheet">
@@ -31,31 +32,37 @@
 	<!---- AJAX REVIEW ---->
 	<script src="ajax.js"></script>
 
-
 </head>
 <body>
 
 
  <!-- MENU -->
 
-	<header class="menu-bar">
-		<div class="container-fluid">
-			<div class="row">
-
-				<div class="col-xl-3 d-flex justify-content-center">
-			<p class="address">Г.ЛЮБЕРЦЫ <br>УЛ.ПРЕОБРАЖЕНСКАЯ Д.9</p>
-				</div>
-
-				<div class="col-xl-6 d-flex justify-content-center">
-				   <p class="NAME1">ПАРИКМАХЕРСКАЯ<span class="NAME2"><br>ИЗУМИ !</span></p>
-				</div>
-
-				<div class="col-xl-3 d-flex justify-content-center">
-					<p class="tel">Телефон для записи:<br>+ 7(909)924-56-20</p>
+	<header class="top">
+			<div class="header-area ptb-18 header-sticky">
+				<div class="container mb-4 mt-4">
+					<div class="row d-flex justify-content-center">
+						<div class="col-md-2 col-xs-12">
+							<div class="logo d-flex justify-content-center">
+								<a href="#"><img src="img/logo/logo.png" alt="COFFEE" /></a>
+							</div>
+						</div>
+						<div class="col-md-8 col-xs-12">
+                            <div class="content-wrapper d-flex justify-content-around">
+                                
+                                <div class="header__address">
+                                  	<span>Г.ЛЮБЕРЦЫ <br>УЛ.ПРЕОБРАЖЕНСКАЯ Д.9</span>
+                                </div>
+                                <div class="header__tel">
+                                  	<span>Телефон для записи: <br>+ 7(909)924-56-20</span>
+                                </div>
+                               
+                            </div>
+						</div>
+					</div>
 				</div>
 			</div>
-		</div>
-	</header>
+		</header>
 
 	<!-- MAIN BACKGROUND -->
 	
@@ -649,7 +656,7 @@
 		<div class="container-fluid">
 		<div class="row">
 
-			<div class="col-xl-3 col-md-12 d-flex justify-content-center">
+			<div class="col-xl-3 col-md-12 d-flex justify-content-start">
 				<div class="footer__email">
 				<ul class="list-unstyled">
 	          <li>
@@ -662,7 +669,7 @@
 	      		</div>
 	      </div>
 
-			<div class="col-xl-3 col-md-12 d-flex justify-content-center">
+			<div class="col-xl-3 col-md-12 d-flex justify-content-start">
 				<div class="footer__social">
 				<ul class="list-unstyled">
 	          <li>
@@ -715,6 +722,6 @@
       <small>Copyright &copy; izumim.ru</small>
     </div>
   </footer>
-  
+
 </body>
 </html>
